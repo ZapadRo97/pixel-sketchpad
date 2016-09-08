@@ -1,0 +1,41 @@
+#draw-area{
+	border: 1px solid black;
+	width:288px;
+	margin:30px auto;
+	display: block;
+}
+
+div{
+	display: inline-block;
+	margin-bottom: -4px;
+	padding: 0;
+}
+
+.box {
+background-color: white;
+transition: background 0.5s linear;
+}
+
+#link-wrapper{
+	margin: 30px auto;
+	width:220px;
+	text-align:center;
+	display: block;
+}
+
+a{
+	text-decoration: none;
+	color:#222;
+	background-color:#ccc;
+	display:inline-block;
+	border: 1px solid black;
+	border-radius:2px;
+	width:100px;
+	height:20px;
+	text-align:center;
+}
+
+h1{
+	text-align:center;
+	font-family:Impact,sans-serif;
+}
